@@ -5,6 +5,6 @@
 I am Navu, 17-year-old developer building high-performance infrastructure. Academics weren't my strong suit so I took Humanities, but my drive stays fixed on code and building systems.
 
 > [!NOTE]
-> Currently developing for **[Questor](https://fear.rest)**
+> Currently developing for **[Biolink](https://fear.rest)**
 
 <img width=400% src="./public/stack.png" alt="header"/>
